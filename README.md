@@ -1,5 +1,6 @@
 # Solver
 by Antoine Lepeltier
+
 Last update : 03/10/2021
 
 ## Sudoku
