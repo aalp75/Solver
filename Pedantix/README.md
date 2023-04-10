@@ -3,7 +3,7 @@ by Antoine Lepeltier
 
 Last update : 10/24/2023
 
-## Pendatix
+## Pedantix
 Execute the first cells, then:
 
 1) Chose a language (french: fr, english: en)
