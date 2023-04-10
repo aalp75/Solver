@@ -13,6 +13,5 @@ Execute the first cells, then:
 3) Execute last cell
 
 4) New game starts at 12:00 for french and 20:00 for english (UTC+2)
-
-![alt text](https://github.com/aalp75/Solver/tree/main/Pedantix/Screenshots/1st pedantix.png)
-![alt text](https://github.com/aalp75/Solver/tree/main/Pedantix/Screenshots/1st pedantle.png)
+5) 
+![alt text](https://github.com/aalp75/Solver/blob/main/Pedantix/Screenshots/1st%20pedantix.png)
