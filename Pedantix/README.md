@@ -1,16 +1,15 @@
 # Solver
 by Antoine Lepeltier
 
-Last update : 03/10/2021
+Last update : 10/24/2023
 
-## Sudoku
+## Pendatix
+Execute the first cells, then:
 
-1) Open Sudoku.xlsm and write the sudoku you want to solve
+1) Chose a language (french: fr, english: en)
 
-2) Open Sudoku.ipynb with Jupyter Notebook and execute the code
+2) Choose the correct number game number (-1 to take the current one)
 
-	a) Firstly it uses backtracking method
+3) Execute last cell
 
-	b) Secondly it uses MCMC Metropolis hastings method
-
-3) Note that it works way better the backtracking method. Difficult sudoku are not resolvable by MCMC
+4) New game starts at 12:00 for french and 20:00 for english (UTC+2)
